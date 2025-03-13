@@ -42,6 +42,12 @@ def falling(n, k):
     1
     """
     "*** YOUR CODE HERE ***"
+    a = n-k
+    fall = 1
+    while n > a:
+        fall = fall * n
+        n -= 1
+    return fall
 
 
 
