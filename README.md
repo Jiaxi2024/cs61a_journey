@@ -6,3 +6,5 @@ there is no return in lambda, if you want to use 'while', don't put in lambda bu
 
 Good to redo:
 hw02: Q3
+
+学到recursion
